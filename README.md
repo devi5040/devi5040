@@ -31,4 +31,6 @@ Here are some ideas to get you started:--->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devi5040&show_icons=true&locale=en&layout=compact" alt="devi5040" /></p>
 <br><br><br><br><br><br><br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=devi5040)](https://git.io/streak-stats)
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devi5040&show_icons=true&locale=en" alt="devi5040" /></p>
