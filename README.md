@@ -29,8 +29,21 @@ Here are some ideas to get you started:--->
 
 <br><br>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devi5040&show_icons=true&locale=en&layout=compact" alt="devi5040" /></p>
-<br><br><br><br><br><br><br><br> -->
+
+<h3 align="center">A passionate web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devi5040&label=Profile%20views&color=0e75b6&style=flat" alt="devi5040" /> </p>
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devi5040" alt="devi5040" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devi5040&show_icons=true&locale=en&layout=compact" alt="devi5040" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devi5040&show_icons=true&locale=en" alt="devi5040" /></p>
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devi5040&" alt="devi5040" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devi5040&show_icons=true&locale=en" alt="devi5040" /></p>
