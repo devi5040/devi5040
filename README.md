@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack web development and AI/ML<br>👯 I’m looking to collaborate on Full stack web/mobile apps<br>🌱 I’m currently learning everything seems interesting<br>💬 Ask me about anything I know<br>⚡ Fun fact :  I love to code, Solve puzzle, Cricket and Try something new
+🔭 I’m currently working on Full stack web development and AI/ML<br>👯 I’m looking to collaborate on Full stack
+web/mobile apps<br>🌱 I’m currently learning everything seems interesting<br>💬 Ask me about anything I know<br>⚡ Fun
+fact : I love to code, Solve puzzle, Cricket and Try something new
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dpraidola@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dpraidola@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,18 +56,16 @@ Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-ba
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devi5040&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devi5040&theme=dark&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devi5040&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devi5040&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devi5040&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devi5040&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devi5040&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devi5040&" alt="devi5040" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -74,4 +74,3 @@ Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-ba
 [![](https://visitcount.itsvg.in/api?id=devi5040&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
