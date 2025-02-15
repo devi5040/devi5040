@@ -65,7 +65,7 @@ Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-ba
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devi5040&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devi5040&" alt="devi5040" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devi5040&" alt="devi5040" /></p> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
