@@ -75,8 +75,7 @@ and productivity tools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devi5040&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi5040&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165"/>
+[![Devi's GitHub stats](https://github-stats-extended.vercel.app/api?username=devi5040)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
